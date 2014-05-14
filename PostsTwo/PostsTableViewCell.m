@@ -19,7 +19,6 @@
     }
     return self;
 }
-
 -(void)setPost:(Posts *)post
 {
     _post = post;
